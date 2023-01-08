@@ -1,0 +1,3 @@
+/home/joer/Projects/TicTacToe/Debug/CMakeFiles/tictactoe.dir
+/home/joer/Projects/TicTacToe/Debug/CMakeFiles/edit_cache.dir
+/home/joer/Projects/TicTacToe/Debug/CMakeFiles/rebuild_cache.dir
